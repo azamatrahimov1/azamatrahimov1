@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azamatrahimov1
+- 👋 Hi, I’m Azamat
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning PHP, JavaScript, Python and others
 - 💞️ I’m looking to collaborate on ...
